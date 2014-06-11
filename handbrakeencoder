@@ -2,8 +2,7 @@
 #  handbrakeencoder
 #  Recursively encode video files with HandbrakeCLI
 #  chmod +x
-#  Created by boolean ( bo01ean ) github.com/bo0lean
-on raptor on 6/9/14.
+#  Created by boolean ( bo01ean ) github.com/bo0lean on raptor on 6/9/14.
 #
 
 import os, re
